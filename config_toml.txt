@@ -1,0 +1,13 @@
+# Configuration file
+# DO NOT EDIT MANUALLY
+
+[telegram]
+phone = ""
+api_id = 123456
+api_hash = ""
+bot_token = ""
+chat_id = ""
+
+[session]
+initialized = false
+last_login = ""
