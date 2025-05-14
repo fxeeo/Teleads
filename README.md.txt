@@ -26,7 +26,7 @@ pkg install python git
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/telegram-ad-bot
+git clone https://github.com/fxeeo/Teleads
 cd telegram-ad-bot
 ```
 
