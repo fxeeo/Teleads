@@ -1,0 +1,26 @@
+# Telegram Advertisement Bot Configuration
+# This file is automatically populated on first run
+
+[telegram]
+# Bot token for the management interface
+bot_token = ""
+
+[admin]
+# Admin Telegram chat ID
+chat_id = ""
+
+[accounts]
+# Telegram accounts used for message forwarding
+# Format: [phone_number] = "session_name"
+# Example: "+12345678901" = "account1"
+
+[settings]
+# General application settings
+message_delay = 2  # Delay between messages (seconds)
+join_delay = 5     # Delay between joining groups (seconds)
+max_forwards_per_hour = 20  # Maximum forwards per account per hour
+rotation_strategy = "round_robin"  # Account rotation strategy: "round_robin" or "random"
+
+[security]
+# Security settings
+encrypt_sessions = true  # Whether to encrypt session files
