@@ -1,9 +1,8 @@
-# [telegram]
-api_id = 123456     # <- Replace with your API ID (as an integer, not string)
-api_hash = "abc123def456..."  # <- Replace with your API hash
+[telegram]
+api_id = 0
+api_hash = ""
 session = ""
 
 [bot]
 token = ""
 chat_id = ""
-encrypt session files
