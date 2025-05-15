@@ -25,8 +25,8 @@ A high-speed, Termux-compatible Telegram advertisement bot for bulk forwarding o
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/telegram-ad-bot.git
-   cd telegram-ad-bot
+   git clone https://github.com/fxeeo/Teleads.git
+   cd Teleads
    ```
 
 2. Install dependencies:
